@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/anime-app/static/css/main.7d80634e.css",
-    "main.js": "/anime-app/static/js/main.cbe10d44.js",
+    "main.js": "/anime-app/static/js/main.b867d80c.js",
     "static/media/bgimg.jpg": "/anime-app/static/media/bgimg.be7658e28fc85cc0b978.jpg",
     "index.html": "/anime-app/index.html",
     "main.7d80634e.css.map": "/anime-app/static/css/main.7d80634e.css.map",
-    "main.cbe10d44.js.map": "/anime-app/static/js/main.cbe10d44.js.map"
+    "main.b867d80c.js.map": "/anime-app/static/js/main.b867d80c.js.map"
   },
   "entrypoints": [
     "static/css/main.7d80634e.css",
-    "static/js/main.cbe10d44.js"
+    "static/js/main.b867d80c.js"
   ]
 }
