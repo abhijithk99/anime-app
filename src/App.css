@@ -1,0 +1,17 @@
+.App tr{
+margin: 80px;
+padding: 0px 45px;
+}
+.App th{
+  margin: 80px;
+  margin-bottom: 20px;
+  padding:0px 45px;
+  }
+  .App td{
+    margin: 80px;
+    padding:0px  45px;
+    margin-bottom: 20px;
+    }
+  .head{
+    padding: 50px;
+  }
